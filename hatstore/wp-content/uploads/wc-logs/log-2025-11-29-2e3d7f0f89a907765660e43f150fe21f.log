@@ -1,0 +1,3 @@
+2025-11-29T02:19:49+00:00 INFO Payment gateway enabled: "Transferencia bancaria directa"
+2025-11-29T02:27:29+00:00 DEBUG Se intentó determinar la URl de edición del pedido 12345, sin embargo el pedido no existe.
+2025-11-29T02:27:29+00:00 DEBUG Se intentó determinar la URl de edición del pedido 12345, sin embargo el pedido no existe.
